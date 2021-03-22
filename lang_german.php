@@ -1,4 +1,4 @@
-<?php
+<?php //test
 
 //Registration, Sign-Up
 define("ABI_UI_WELCOME_HEADER", "Beim Community Hub anmelden");
